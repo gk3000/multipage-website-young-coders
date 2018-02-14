@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+}
+
+main {
+	text-align: center;
+	background-color: white;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 100vh;
+	padding: 0 5%; 
+}
+
+.nav {
+	text-align: center;
+}
+
+p {
+	font-family: 'Rammetto One', cursive;
+}
+
+img {
+	display: block;
+	margin: 0 auto; 
+}
+
+img#pacman {
+	width:100%;
+}

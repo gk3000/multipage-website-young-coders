@@ -24,6 +24,20 @@ img {
 	margin: 0 auto; 
 }
 
-img#pacman {
+#pacman {
 	width:100%;
 }
+
+button {
+	padding: 1em 2em 1em 2em;
+}
+
+li {
+	list-style-position: inside;
+}
+
+footer {
+	background-color: red;
+	min-height: 10vh;
+}
+   
